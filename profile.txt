@@ -1,1 +1,2 @@
 Hello, I’m [ABBAS SHAH], a student learning Git and GitHub!
+Favorite Programming Languages: C++, Python, JavaScript
